@@ -12,6 +12,6 @@ header {
     background-color: hsl(71, 0%, 98%);
     display: flex;
 }
-div {
-    text-align:left;
+p {
+    text-align-last: left;
 }
